@@ -23,7 +23,7 @@ To run the Virtual Pet Simulation on your local machine, follow these steps:
 
 ## Contributors
 
-This project was developed by [Your Name](https://github.com/vishalbansal28). Contributions are welcome! Feel free to open issues or submit pull requests.
+This project was developed by Vishal Bansal(https://github.com/vishalbansal28). Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
